@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1325d231-5218-4ee0-ad5d-0964ec54fb6b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../classes-and-objects/.idea/sonarlint/issuestore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaces/.idea/sonarlint/issuestore/2/c/2cf9d1136a78e42306869f2f3ea851bec0c680b9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaces/.idea/sonarlint/issuestore/7/3/7311f11c84500ed9506187c790009916e2a39a09" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaces/.idea/sonarlint/issuestore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaces/.idea/sonarlint/issuestore/9/a/9ac6e0c0faaa526ba6dc7ae741b4b8d5072a5b1e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaces/.idea/sonarlint/issuestore/e/2/e2100159ecda79f96ec2487a71524f8040d50093" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaces/.idea/sonarlint/issuestore/f/1/f18daee4f02e116cd411ae658070aa8ef184965d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaces/.idea/sonarlint/issuestore/f/c/fc6d857a81d10d71c45c4837f5a57d30c57c196d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/Device.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/GalaxyNote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/IPad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/IPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/Smartphoneable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/Tabletable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/resources/file" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/presentation.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise/FileKV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise/InMemoryKV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise/KeyValueStorage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/exercise/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/exercise/FileKVTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/exercise/InMemoryKVTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/file" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classes-and-objects/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../classes-and-objects/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../interfaces/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../interfaces/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HYH4QVKZrE0YygmenNdOrBOdqN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "last_opened_file_path": "/home/opifex/Hexlet/hexlet-assignments/java-oop-ru/subtyping",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="exercise" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.All in subtyping.test">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise.App" />
+      <module name="subtyping.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in subtyping.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="subtyping.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="subtyping.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="exercise" />
+      <option name="MAIN_CLASS_NAME" value="exercise.AppTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileKVTest.testSet_WhenCorrectInputs" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="subtyping.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="exercise" />
+      <option name="MAIN_CLASS_NAME" value="exercise.FileKVTest" />
+      <option name="METHOD_NAME" value="testSet_WhenCorrectInputs" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileKVTest.testUnset_WhenCorrectInputs" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="subtyping.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="exercise" />
+      <option name="MAIN_CLASS_NAME" value="exercise.FileKVTest" />
+      <option name="METHOD_NAME" value="testUnset_WhenCorrectInputs" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in subtyping.test" />
+        <item itemvalue="JUnit.FileKVTest.testUnset_WhenCorrectInputs" />
+        <item itemvalue="JUnit.FileKVTest.testSet_WhenCorrectInputs" />
+        <item itemvalue="Application.App" />
+        <item itemvalue="JUnit.AppTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1325d231-5218-4ee0-ad5d-0964ec54fb6b" name="Changes" comment="" />
+      <created>1668454904234</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668454904234</updated>
+      <workItem from="1668454905574" duration="6000" />
+      <workItem from="1668454926843" duration="5498000" />
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/exercise/InMemoryKVTest.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
