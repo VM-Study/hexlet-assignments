@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4f2339ae-f8dd-4420-9088-39f0fc8525d1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.attach_pid44059" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/Frog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/exercise/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/exercise/PairedTag.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/exercise/SingleTag.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/exercise/Tag.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/classes/exercise/AppTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/presentation.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise/PairedTag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise/SingleTag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise/Tag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/exercise/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patterns/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patterns/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patterns/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patterns/README.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patterns/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patterns/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patterns/examples/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patterns/examples/builder/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patterns/examples/builder/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patterns/examples/state/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patterns/examples/state/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patterns/examples/state/State.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patterns/examples/state/impl/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patterns/examples/state/impl/DriveState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patterns/examples/state/impl/LockedState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patterns/examples/state/impl/StartState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patterns/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patterns/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patterns/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patterns/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patterns/presentation.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patterns/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patterns/src/main/java/exercise/TcpConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patterns/src/main/java/exercise/connections/Connected.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patterns/src/main/java/exercise/connections/Connection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patterns/src/main/java/exercise/connections/Disconnected.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patterns/src/test/java/exercise/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../subtyping/.idea/sonarlint/issuestore/6/9/69087594e4bcbe4195353795152d908ce5c797b8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../subtyping/.idea/sonarlint/issuestore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../subtyping/.idea/sonarlint/issuestore/9/a/9ac6e0c0faaa526ba6dc7ae741b4b8d5072a5b1e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../subtyping/.idea/sonarlint/issuestore/a/b/aba3344200cf05df8cf663dc2ef91006a550fb57" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../subtyping/.idea/sonarlint/issuestore/b/5/b5eaf6cb78adb8193384f9a6e45bd3f9d5fb3a37" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../subtyping/.idea/sonarlint/issuestore/b/8/b8569eb02cc11d953c0991727d4d21a9a0842fd2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../subtyping/.idea/sonarlint/issuestore/b/8/b8ac1c9cc9d3daf534d8196e3738bbc7595e3526" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../subtyping/.idea/sonarlint/issuestore/f/1/f18daee4f02e116cd411ae658070aa8ef184965d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../subtyping/.idea/sonarlint/issuestore/f/2/f26c859c4de85345306584126d4ca34444163cf2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classes-and-objects/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../classes-and-objects/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../interfaces/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../interfaces/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../subtyping/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../subtyping/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../subtyping/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../subtyping/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HbKZZWsDddKbB9aMMlZSyaHkVr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/opifex/Hexlet/hexlet-assignments/java-oop-ru/inheritance",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise.Main" />
+      <module name="inheritance.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in inheritance.test (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="inheritance.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in inheritance.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="inheritance.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="inheritance.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="exercise" />
+      <option name="MAIN_CLASS_NAME" value="exercise.AppTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.AppTest" />
+        <item itemvalue="JUnit.All in inheritance.test (1)" />
+        <item itemvalue="JUnit.All in inheritance.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f2339ae-f8dd-4420-9088-39f0fc8525d1" name="Changes" comment="" />
+      <created>1668548399068</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668548399068</updated>
+      <workItem from="1668548400394" duration="3812000" />
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/exercise/PairedTag.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/inheritance$Main.ic" NAME="Main Coverage Results" MODIFIED="1668553798910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>exercise.*</FILTER>
+    </SUITE>
+  </component>
+</project>
