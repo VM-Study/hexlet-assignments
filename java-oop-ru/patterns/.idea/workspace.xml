@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f59799c0-7b09-47d9-8c0d-f684c7ff48f3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../code-generation/.idea/sonarlint/issuestore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code-generation/.idea/sonarlint/issuestore/9/a/9ac6e0c0faaa526ba6dc7ae741b4b8d5072a5b1e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code-generation/.idea/sonarlint/issuestore/b/a/ba0b1a431f675796c5d172336dc2c300310a53f1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code-generation/.idea/sonarlint/issuestore/f/1/f18daee4f02e116cd411ae658070aa8ef184965d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code-generation/.idea/sonarlint/issuestore/f/2/f2544ffea75ee25f37cdb1ea5f73cc742816b0fa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inheritance/.idea/modules/inheritance.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reflections/.idea/sonarlint/issuestore/4/1/413ab2842e65c603d81e3441682f517935baca42" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reflections/.idea/sonarlint/issuestore/5/e/5e0ada64f253ffe5f9c60bc7425eaea5477cb5d3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reflections/.idea/sonarlint/issuestore/7/b/7b3cc4c475bb18932121511ff49d4137f3f72b03" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reflections/.idea/sonarlint/issuestore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reflections/.idea/sonarlint/issuestore/a/2/a244cb7dab83e4a326b4445094afcd2528ef8848" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reflections/.idea/sonarlint/issuestore/b/a/ba611a70844fa41590f635d7caf59a7fdd8532e3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reflections/.idea/sonarlint/issuestore/d/4/d4782e7bfe4f7043c49f8620aee66afbdc461cd9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reflections/.idea/sonarlint/issuestore/d/a/dad1679a5c4f9a8ae66a9e1e3a922bb6376a9c5d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reflections/.idea/sonarlint/issuestore/d/e/de2e57cfc55995a603ab960a4ef9dcc09063a4ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reflections/.idea/sonarlint/issuestore/f/b/fbf2c1942be42d8f9fb9e27d2bb4ba4f2cb27dfa" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classes-and-objects/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../classes-and-objects/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code-generation/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../code-generation/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code-generation/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../code-generation/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code-generation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../code-generation/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../errors/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../errors/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../errors/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../errors/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inheritance/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../inheritance/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inheritance/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../inheritance/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../interfaces/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../interfaces/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reflections/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../reflections/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reflections/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../reflections/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reflections/out/production/classes/exercise/Validator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../reflections/out/production/classes/exercise/Validator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reflections/src/main/java/exercise/Validator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../reflections/src/main/java/exercise/Validator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../subtyping/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../subtyping/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../subtyping/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../subtyping/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HYtzlKNGAaSaBbjNcEGKQs9tpO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/opifex/Hexlet/hexlet-assignments/java-oop-ru/inheritance",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.TcpTest">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise.Main" />
+      <module name="patterns.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TcpTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="patterns.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="exercise" />
+      <option name="MAIN_CLASS_NAME" value="exercise.TcpTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TcpTest" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f59799c0-7b09-47d9-8c0d-f684c7ff48f3" name="Changes" comment="" />
+      <created>1668474109444</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668474109444</updated>
+      <workItem from="1668474110737" duration="2435000" />
+      <workItem from="1669066574917" duration="2540000" />
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/exercise/Main.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
