@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="exercise.AppTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-09-30T20:25:40" hostname="MaxMain" time="0.102">
+  <properties/>
+  <testcase name="testPoint()" classname="exercise.AppTest" time="0.089"/>
+  <testcase name="testGetMidpointOfSegment()" classname="exercise.AppTest" time="0.004"/>
+  <testcase name="testReverse()" classname="exercise.AppTest" time="0.003"/>
+  <testcase name="testSegment()" classname="exercise.AppTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
