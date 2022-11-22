@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="exercise.AppTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2021-09-21T23:43:50" hostname="MaxMain" time="0.058">
+  <properties/>
+  <testcase name="testGetAbbreviation1()" classname="exercise.AppTest" time="0.046"/>
+  <testcase name="testGetAbbreviation2()" classname="exercise.AppTest" time="0.001"/>
+  <testcase name="testGetAbbreviation3()" classname="exercise.AppTest" time="0.0"/>
+  <testcase name="testGetAbbreviation4()" classname="exercise.AppTest" time="0.001"/>
+  <testcase name="testGetAbbreviation5()" classname="exercise.AppTest" time="0.002"/>
+  <testcase name="testGetAbbreviation6()" classname="exercise.AppTest" time="0.001"/>
+  <testcase name="testGetAbbreviation7()" classname="exercise.AppTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
