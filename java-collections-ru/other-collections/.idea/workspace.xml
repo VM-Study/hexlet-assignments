@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5054f547-62ce-4755-8b9c-efe644489095" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/presentation.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercise/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/exercise/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced-streams/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../advanced-streams/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advanced-streams/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../advanced-streams/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generics/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../generics/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generics/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../generics/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lambdas/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../lambdas/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lambdas/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lambdas/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lists/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../lists/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maps/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../maps/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maps/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../maps/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../streams/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../streams/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../streams/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../streams/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tests/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../tests/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tests/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tests/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-oop-ru/classes-and-objects/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-oop-ru/classes-and-objects/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-oop-ru/code-generation/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-oop-ru/code-generation/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-oop-ru/code-generation/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-oop-ru/code-generation/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-oop-ru/code-generation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-oop-ru/code-generation/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-oop-ru/errors/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-oop-ru/errors/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-oop-ru/errors/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-oop-ru/errors/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-oop-ru/inheritance/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-oop-ru/inheritance/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-oop-ru/inheritance/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-oop-ru/inheritance/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-oop-ru/interfaces/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-oop-ru/interfaces/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-oop-ru/patterns/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-oop-ru/patterns/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-oop-ru/patterns/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-oop-ru/patterns/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-oop-ru/reflections/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-oop-ru/reflections/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-oop-ru/reflections/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-oop-ru/reflections/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-oop-ru/reflections/out/production/classes/exercise/Validator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-oop-ru/reflections/out/production/classes/exercise/Validator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-oop-ru/reflections/src/main/java/exercise/Validator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-oop-ru/reflections/src/main/java/exercise/Validator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-oop-ru/subtyping/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-oop-ru/subtyping/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-oop-ru/subtyping/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../java-oop-ru/subtyping/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HsZpot7zYbkod592gawIhE3xqb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/opifex/Hexlet/hexlet-assignments/java-collections-ru/other-collections",
+    "settings.editor.selected.configurable": "application.passwordSafe"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5054f547-62ce-4755-8b9c-efe644489095" name="Changes" comment="" />
+      <created>1669075936261</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669075936261</updated>
+      <workItem from="1669075937552" duration="11000" />
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
