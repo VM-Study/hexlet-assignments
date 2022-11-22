@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="exercise.PointTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-09-24T01:28:20" hostname="MaxMain" time="0.066">
+  <properties/>
+  <testcase name="testToString()" classname="exercise.PointTest" time="0.059"/>
+  <testcase name="testGetters()" classname="exercise.PointTest" time="0.003"/>
+  <testcase name="testGetQuadrant()" classname="exercise.PointTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
