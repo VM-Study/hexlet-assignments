@@ -34,8 +34,8 @@ public class App {
         ctx.addServletMappingDecoded("/", "WelcomeServlet");
 
         // Запуск сервера
-        app.start();
-        app.getServer().await();
+        //app.start();
+        //app.getServer().await();
         // END
 
         return app;
