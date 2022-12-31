@@ -43,9 +43,7 @@ public class ArticlesServlet extends HttpServlet {
     }
 
     @Override
-    public void doGet(HttpServletRequest request,
-                      HttpServletResponse response)
-            throws IOException, ServletException {
+    public void doGet(HttpServletRequest request, HttpServletResponse response) throws IOException, ServletException {
 
         String action = getAction(request);
 
@@ -59,74 +57,73 @@ public class ArticlesServlet extends HttpServlet {
         }
     }
 
-    private void showArticles(HttpServletRequest request,
-                              HttpServletResponse response)
-            throws IOException, ServletException {
+    private void showArticles(HttpServletRequest request, HttpServletResponse response) throws IOException, ServletException {
 
         ServletContext context = request.getServletContext();
         Connection connection = (Connection) context.getAttribute("dbConnection");
         // BEGIN
-        String page = request.getParameter("page");
-        int pageIndex = 1;
-        if (!isNull(page) && !page.isEmpty()) {
-            pageIndex = Integer.parseInt(page);
-        }
-        request.setAttribute("pageIndex", pageIndex);
-        pageIndex--;
-        pageIndex *= 10;
-        System.out.println(pageIndex);
         List<Map<String, String>> articles = new ArrayList<>();
-        String query = "SELECT id, title, body FROM articles ORDER BY id LIMIT 10 OFFSET ?";
+
+        int articlesPerPage = 10;
+
+        String page = request.getParameter("page");
+        int normalizedPage = page == null ? 1 : Integer.parseInt(page);
+        int offset = (normalizedPage - 1) * articlesPerPage;
+
+        String query = "SELECT id, title FROM articles ORDER BY id LIMIT ? OFFSET ?";
+
         try {
             PreparedStatement statement = connection.prepareStatement(query);
-            statement.setInt(1, pageIndex);
+            statement.setInt(1, articlesPerPage);
+            statement.setInt(2, offset);
             ResultSet rs = statement.executeQuery();
+
             while (rs.next()) {
-                articles.add(Map.of(
-                                "id", rs.getString("id"),
-                                "title", rs.getString("title"),
-                                "body", rs.getString("body")
-                        )
-                );
+                articles.add(Map.of("id", rs.getString("id"), "title", rs.getString("title")));
             }
+
         } catch (SQLException e) {
             response.sendError(HttpServletResponse.SC_INTERNAL_SERVER_ERROR);
             return;
         }
+
         request.setAttribute("articles", articles);
+        request.setAttribute("page", normalizedPage);
         // END
         TemplateEngineUtil.render("articles/index.html", request, response);
     }
 
-    private void showArticle(HttpServletRequest request,
-                             HttpServletResponse response)
-            throws IOException, ServletException {
+    private void showArticle(HttpServletRequest request, HttpServletResponse response) throws IOException, ServletException {
 
         ServletContext context = request.getServletContext();
         Connection connection = (Connection) context.getAttribute("dbConnection");
         // BEGIN
         String id = getId(request);
-        List<Map<String, String>> articles = new ArrayList<>();
-        String query = "SELECT title, body FROM articles WHERE id = ?";
+
+        Map<String, String> article = new HashMap<>();
+
+        String query = "SELECT * FROM articles WHERE id=?";
+
         try {
             PreparedStatement statement = connection.prepareStatement(query);
             statement.setString(1, id);
             ResultSet rs = statement.executeQuery();
-            while (rs.next()) {
-                articles.add(Map.of(
-                                "title", rs.getString("title"),
-                                "body", rs.getString("body")
-                        )
-                );
-            }
-            if (articles.isEmpty()) {
+
+            if (!rs.first()) {
                 response.sendError(HttpServletResponse.SC_NOT_FOUND);
+                return;
             }
+
+            article.put("title", rs.getString("title"));
+            article.put("body", rs.getString("body"));
+
+
         } catch (SQLException e) {
             response.sendError(HttpServletResponse.SC_INTERNAL_SERVER_ERROR);
             return;
         }
-        request.setAttribute("articles", articles);
+
+        request.setAttribute("article", article);
         // END
         TemplateEngineUtil.render("articles/show.html", request, response);
     }

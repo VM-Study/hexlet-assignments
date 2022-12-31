@@ -1,16 +1,18 @@
 <!DOCTYPE html>
 <html xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout"
-layout:decorate="~{layouts/application.html}">
+      layout:decorate="~{layouts/application.html}">
 
 <head>
-  <title>Show article</title>
+    <title>Show article</title>
 </head>
 <section layout:fragment="content">
-  <!-- BEGIN -->
-
-  <tr th:each="article : ${articles}" th:object="${article}">
-    <td th:text="*{title}"></td>
-    <td th:text="*{body}"></td>
-  </tr>
-  <!-- END -->
+    <!-- BEGIN -->
+    <h1>Данные статьи</h1>
+    <div class="card" th:object="${article}">
+        <ul class="list-group list-group-flush">
+            <li class="list-group-item" th:text="*{title}"></li>
+            <li class="list-group-item" th:text="*{body}"></li>
+        </ul>
+    </div>
+    <!-- END -->
 </section>
