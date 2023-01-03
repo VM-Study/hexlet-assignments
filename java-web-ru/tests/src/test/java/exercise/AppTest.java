@@ -121,7 +121,8 @@ class AppTest {
 
     // что при отправке не валидных данных приходит ответ с кодом 422
     // новый пользователь не добавляется в базу данных
-    void testCreateUserWithIncorrectName1() {
+    @Test
+    void testCreateUserWithIncorrectName() {
 
         String firstName = "Aleksandr";
         String lastName = "";
@@ -142,6 +143,39 @@ class AppTest {
 
         assertThat(content).contains("Aleksandr");
         assertThat(content).contains("al@yandex.ru");
+    }
+
+    @Test
+    void testNegative() {
+
+        String firstName = "";
+        String lastName = "Petroff";
+        String email = "yandex.ru";
+        String password = "as";
+
+        HttpResponse<String> responsePost = Unirest
+                .post(baseUrl + "/users")
+                .field("firstName", firstName)
+                .field("lastName", lastName)
+                .field("email", email)
+                .field("password", password)
+                .asString();
+
+        assertThat(responsePost.getStatus()).isEqualTo(422);
+
+        User actualUser = new QUser()
+                .lastName.equalTo(lastName)
+                .findOne();
+
+        assertThat(actualUser).isNull();
+
+        String content = responsePost.getBody();
+
+        assertThat(content).contains("yandex.ru");
+        assertThat(content).contains("Petroff");
+        assertThat(content).contains("Имя не должно быть пустым");
+        assertThat(content).contains("Должно быть валидным email");
+        assertThat(content).contains("Пароль должен содержать не менее 4 символов");
     }
     // END
 }
